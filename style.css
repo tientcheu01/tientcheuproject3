@@ -10,8 +10,8 @@ display: none;
     color: white;
     @media only screen and (max-width: 767px) {
 
-        margin-left: 20px;
-        margin-top: -800px;
+        margin-left: 100px;
+        margin-top: -600px;
         color: white;
         
     
@@ -324,7 +324,7 @@ body{
 }
 .supa1{
     @media only screen and (min-width: 1024px) {
-
+        margin-left: -30px;
         display: none;
     }
     @media only screen and (max-width: 767px) {
@@ -424,7 +424,7 @@ body{
 }
 .supa1{
     @media only screen and (max-width: 767px) {
-         padding-left: 80px;
+         padding-left: 20px;
 
 }
 }
