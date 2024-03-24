@@ -458,7 +458,18 @@ head{
             width: 400px;
         }
 }
+}
 
+
+.supa1{
+    @media only screen and (max-width: 767px) {
+
+        .ch{
+            width: 400px;
+            margin-left: 10px;
+        }
+
+}
 
 
 
