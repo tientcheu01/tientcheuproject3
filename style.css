@@ -399,6 +399,10 @@ body{
 .hpi{
     @media only screen and (max-width: 767px) {
 
+        .ch{
+            width: 400px;
+        }
+
        
         .from{
             padding-top: 20px;
@@ -447,7 +451,13 @@ head{
     font-style: normal;
 }
 
+.respo{
+    @media only screen and (max-width: 767px) {
 
+        .ch{
+            width: 400px;
+        }
+}
 
 
 
